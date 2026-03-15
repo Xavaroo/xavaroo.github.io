@@ -124,7 +124,7 @@ const Home = () => {
             <div className="md:col-span-8 relative group overflow-hidden">
               <img 
                 // src="https://images.unsplash.com/photo-1506929113675-b55f9d3bb76a?q=80&w=1200&auto=format&fit=crop" 
-                src='public/assets/popularExperiences/Cuisine.jpeg'
+                src='/assets/popularExperiences/Cuisine.jpeg'
                 alt="Culture"
                 className="w-full h-full object-cover brightness-75 group-hover:brightness-100 transition-all duration-1000 group-hover:scale-105"
                 referrerPolicy="no-referrer"
@@ -142,7 +142,7 @@ const Home = () => {
               <div className="flex-1 relative group overflow-hidden">
                 <img 
                   // src="https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=800&auto=format&fit=crop" 
-                  src='public/assets/popularExperiences/Culture.jpeg'
+                  src='/assets/popularExperiences/Culture.jpeg'
                   alt="Culture"
                   className="w-full h-full object-cover brightness-75 group-hover:brightness-100 transition-all duration-1000 group-hover:scale-105"
                   referrerPolicy="no-referrer"
@@ -159,7 +159,7 @@ const Home = () => {
               <div className="flex-1 relative group overflow-hidden">
                 <img 
                   // src="https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?q=80&w=800&auto=format&fit=crop" 
-                  src='public/assets/popularExperiences/art.jpeg'
+                  src='/assets/popularExperiences/art.jpeg'
                   alt="Venice"
                   className="w-full h-full object-cover brightness-75 group-hover:brightness-100 transition-all duration-1000 group-hover:scale-105"
                   referrerPolicy="no-referrer"
