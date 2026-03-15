@@ -38,7 +38,7 @@ export const Footer = () => {
           <div>
             <h4 className="text-xs font-bold uppercase tracking-[0.2em] mb-8">Destinations</h4>
             <ul className="space-y-4">
-              {['Maldives', 'Switzerland', 'Greece', 'Bali', 'Iceland'].map((link) => (
+              {['Kanyakumari', 'Rajasthan', 'Kerala', 'Uttarakhand'].map((link) => (
                 <li key={link}>
                   <a href="#" className="text-sm text-zinc-500 hover:text-white transition-colors uppercase tracking-wider text-[11px]">
                     {link}
@@ -53,7 +53,7 @@ export const Footer = () => {
             <ul className="space-y-6">
               <li className="flex items-start gap-4">
                 <MapPin className="w-5 h-5 text-zinc-500 shrink-0" />
-                <span className="text-sm text-zinc-500 font-light">123 Luxury Lane, Minimalist District, NY 10001</span>
+                <span className="text-sm text-zinc-500 font-light">123 IIM, Sirmaur, 173031</span>
               </li>
               <li className="flex items-center gap-4">
                 <Phone className="w-5 h-5 text-zinc-500 shrink-0" />
@@ -61,7 +61,7 @@ export const Footer = () => {
               </li>
               <li className="flex items-center gap-4">
                 <Mail className="w-5 h-5 text-zinc-500 shrink-0" />
-                <span className="text-sm text-zinc-500 font-light">hello@monochrome.com</span>
+                <span className="text-sm text-zinc-500 font-light">hello@xavaroo.com</span>
               </li>
             </ul>
           </div>

@@ -159,7 +159,7 @@ const Home = () => {
               <div className="flex-1 relative group overflow-hidden">
                 <img 
                   // src="https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?q=80&w=800&auto=format&fit=crop" 
-                  src='/assets/popularExperiences/art.jpeg'
+                  src='/assets/popularExperiences/Art.jpeg'
                   alt="Venice"
                   className="w-full h-full object-cover brightness-75 group-hover:brightness-100 transition-all duration-1000 group-hover:scale-105"
                   referrerPolicy="no-referrer"
@@ -285,7 +285,7 @@ const Home = () => {
               <div className="absolute inset-0 border border-black/5 translate-x-6 translate-y-6"></div>
               <img 
                 // src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=1000&auto=format&fit=crop" 
-                src='public/assets/philosophy/Philosophy.jpeg'
+                src='/assets/philosophy/Philosophy.jpeg'
                 alt="Traveler"
                 className="w-full h-full object-cover brightness-75 relative z-10"
                 referrerPolicy="no-referrer"
