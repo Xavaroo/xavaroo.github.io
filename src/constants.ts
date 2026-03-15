@@ -8,7 +8,7 @@ export const HOLIDAY_PACKAGES: HolidayPackage[] = [
     destination: 'Kanyakumari',
     duration: '9 Days / 8 Nights',
     price: 81999,
-    image: 'public/assets/kanyakumari/kanyakumari1.jpeg',
+    image: '/assets/kanyakumari/Kanyakumari1.jpeg',
     images: [
       '/assets/kanyakumari/Kanyakumari1.jpeg',
       '/assets/kanyakumari/Kanyakumari2.jpeg',
