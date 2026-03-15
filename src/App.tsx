@@ -262,7 +262,7 @@ const Home = () => {
                 <span className="italic font-serif font-light lowercase text-black/40">Purpose</span>
               </h2>
               <p className="text-black/60 text-lg font-light leading-relaxed mb-12">
-                We believe that travel is more than just visiting a place—it's about the stories you bring back and the perspective you gain. Our packages are designed to immerse you in the local culture while providing the comfort of minimalist luxury.
+                We believe that travel is more than just visiting a place, it's about the stories you bring back and the perspective you gain. Our packages are designed to immerse you in the local culture while providing the comfort of minimalist luxury.
               </p>
               
               <div className="grid grid-cols-2 gap-8">
